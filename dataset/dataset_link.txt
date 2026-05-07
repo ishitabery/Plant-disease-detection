@@ -1,0 +1,4 @@
+Plant Leave Diseases Dataset with Augmentation
+
+Dataset Link:
+https://data.mendeley.com/datasets/tywbtsjrjv/1
