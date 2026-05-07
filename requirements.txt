@@ -1,0 +1,9 @@
+```txt
+tensorflow
+numpy
+matplotlib
+split-folders
+jupyter
+scikit-learn
+opencv-python
+pandas
